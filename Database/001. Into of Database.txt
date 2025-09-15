@@ -1,0 +1,41 @@
+Introduction of Database
+A database is an oraganized collection of data, generally stored and accessed electronically from a computer system. Database are created to manage large amounts of information by storing, retrieving, and managing data efficiently.
+Types of Database:
+1. Realational Database:
+    - Data is oraganized into tables (or realations) consisting of rows and colmuns. 
+    - Each row represents a record, and each colmun represents a field within the record.
+    - Examples: MySQL, PostgreSQL, Oracle Database, Microsoft SQL Server.
+2. Nosql Database:
+    - Designed for unstructured or semi-structured data.
+    - More flexible than realational database, allowing for variations in data models.
+    - Examples: MongaDB, CouchDB
+3. In-memory Database:
+    - Stores data in the main memory (RAM) for the faster access and processing. 
+    - Examples: Redis
+4. Graph Database:
+    - Desigined to represent and store data in graph structures, with nodes, edges, and properties.
+    - Examples: Amazone Neptune
+5. Object-oriented Database:
+    - Stores data in the form of objects, similar to object-oriented programming.
+    - Examples: db4o, ObjectDB  
+6. Time-series Database:
+    - Optimized for storing and querying time-stamped data.             
+    - Examples: InfluxDB, TimescaleDB
+7. Distributed Database:
+    - Data is distributed across multiple physical locations or servers.
+    - Examples: Apache Cassandra, Google Spanner
+8. Cloud Database:
+    - Hosted on cloud computing platforms, providing scalability and flexibility.
+    - Examples: Amazon RDS, Google Cloud SQL, Microsoft Azure SQL Database
+9. Data Warehouse:
+    - Designed for analytical processing and reporting, often aggregating data from multiple sources.
+    - Examples: Amazon Redshift, Google BigQuery, Snowflake
+10. Hierarchical Database:
+    - Organizes data in a tree-like structure, with parent-child relationships.
+    - Examples: IBM Information Management System (IMS)
+11. Network Database:
+    - Similar to hierarchical databases but allows more complex relationships with many-to-many connections.
+    - Examples: Integrated Data Store (IDS)
+12. Multimodel Database:
+    - Supports multiple data models (e.g., realational, document, graph) within a single database system.
+    - Examples: ArangoDB, OrientDB  
